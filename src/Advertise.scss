@@ -1,0 +1,19 @@
+.Advertise {
+  background-color: #4667e8;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  padding: 138px 72px;
+
+  @media only screen and (max-width: 720px) {
+    padding: 80px 40px;
+  }
+
+  h1 {
+    color: #ffffff;
+  }
+  p {
+    color: #ffffff;
+  }
+}

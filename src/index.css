@@ -1,0 +1,58 @@
+h1 {
+  margin: 0;
+  font-family: Avenir, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-style: normal;
+  font-weight: 900;
+  font-size: 72px;
+  line-height: 120%;
+  color: #0a0a0a;
+}
+h2 {
+  margin: 0;
+  font-family: Avenir, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-style: normal;
+  font-weight: 800;
+  font-size: 24px;
+  line-height: 32px;
+  color: #0a0a0a;
+}
+body {
+  margin: 0;
+  font-family: Avenir, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 40px;
+  /* or 200% */
+
+  /* Text 3 */
+
+  color: #8a94a6;
+}
+
+@media only screen and (max-width: 720px) {
+  h1 {
+    font-size: 40px;
+  }
+  body {
+    font-size: 16px;
+    line-height: 32px;
+  }
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
