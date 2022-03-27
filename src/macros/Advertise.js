@@ -1,5 +1,4 @@
-import Instagram from "./Instagram.svg";
-import "./Advertise.scss";
+import "../styles/Advertise.scss";
 
 function Advertise() {
   return (

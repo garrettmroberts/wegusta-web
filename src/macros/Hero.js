@@ -1,6 +1,6 @@
-import together from "./together.svg";
-import HeroImage from "./HeroImage.png";
-import "./Hero.scss";
+import together from "../assets/together.svg";
+import HeroImage from "../assets/HeroImage.png";
+import "../styles/Hero.scss";
 import Button from "./Button.js";
 
 function Hero() {
@@ -23,7 +23,7 @@ function Hero() {
           <Button />
         </div>
       </div>
-      <img src={HeroImage} className="HeroImage" alt="Hero Image" />
+      <img src={HeroImage} className="HeroImage" alt="Hero" />
     </div>
   );
 }

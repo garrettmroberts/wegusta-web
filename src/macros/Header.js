@@ -1,5 +1,5 @@
-import logo from "./logo.svg";
-import "./Header.scss";
+import logo from "../assets/logo.svg";
+import "../styles/Header.scss";
 
 function Header() {
   return (

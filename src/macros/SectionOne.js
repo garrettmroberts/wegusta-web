@@ -1,6 +1,6 @@
-import SectionImage from "./SectionImage.png";
-import Instagram from "./Instagram.svg";
-import "./SectionOne.scss";
+import SectionImage from "../assets/SectionImage.png";
+import Instagram from "../assets/Instagram.svg";
+import "../styles/SectionOne.scss";
 
 function SectionOne() {
   return (

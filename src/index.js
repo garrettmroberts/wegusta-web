@@ -1,20 +1,16 @@
 import React from "react";
 import ReactDOM from "react-dom";
-import "./index.css";
-import Header from "./Header";
-import Hero from "./Hero";
-import SectionOne from "./SectionOne";
-import Advertise from "./Advertise";
-import Footer from "./Footer";
+import { BrowserRouter } from "react-router-dom";
+import App from './App';
+import "./styles/index.css";
 import reportWebVitals from "./reportWebVitals";
+
 
 ReactDOM.render(
   <React.StrictMode>
-    <Header />
-    <Hero />
-    <SectionOne />
-    <Advertise />
-    <Footer />
+    <BrowserRouter>
+      <App />
+    </BrowserRouter>
   </React.StrictMode>,
   document.getElementById("root")
 );
