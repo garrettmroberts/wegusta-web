@@ -1,0 +1,16 @@
+.Privacy {
+  display: flex;
+  flex-direction: column;
+  padding: 32px 120px;
+
+  @media only screen and (max-width: 720px) {
+    padding: 8px 40px;
+  }
+
+  .logo {
+    height: 64px;
+    @media only screen and (max-width: 720px) {
+      height: 40px;
+    }
+  }
+}

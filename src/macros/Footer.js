@@ -11,10 +11,18 @@ function Footer() {
       <footer className="footer-style">
         <img src={logo} className="logo" alt="logo" />
         <div className="links">
-          <Link to="/">Home</Link>
-          <Link to="/privacy">Privacy Policy</Link>
-          <p>Advertise With Us</p>
-          <p>Download the app</p>
+          <Link className="link" to="/">
+            Home
+          </Link>
+          <Link className="link" to="/privacy">
+            Privacy Policy
+          </Link>
+          <Link className="link" to="/privacy">
+            Advertise With Us
+          </Link>
+          <Link className="link" to="/privacy">
+            Download the app
+          </Link>
         </div>
         <div className="social-links">
           <div className="Social-Link">
