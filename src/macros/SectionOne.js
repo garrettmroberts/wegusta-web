@@ -10,7 +10,7 @@ function SectionOne() {
         className="SectionOneImage"
         alt="SectionOne Image"
       />
-      <div className="SectionOneLeftContent">
+      <div className="SectionOneContent">
         <h1> Simple as 1, 2, 3</h1>
         <div className="Step">
           <div className="Icon">
