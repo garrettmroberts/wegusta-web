@@ -11,13 +11,13 @@ function SectionOne() {
         alt="SectionOne Image"
       />
       <div className="SectionOneContent">
-        <h1> Simple as 1, 2, 3</h1>
+        <h2> Simple as 1, 2, 3</h2>
         <div className="Step">
           <div className="Icon">
             <img src={Instagram} alt="instagram" />
           </div>
           <div className="text-content">
-            <h2>The first Step</h2>
+            <h3>The first Step</h3>
             <p>
               The first app to reccomend a restaurant based on everyones
               preferences. We’ve made dinner plans decisions easy and fun. Try
@@ -30,7 +30,7 @@ function SectionOne() {
             <img src={Instagram} alt="instagram" />
           </div>
           <div className="text-content">
-            <h2>The second Step</h2>
+            <h3>The second Step</h3>
             <p>
               The first app to reccomend a restaurant based on everyones
               preferences. We’ve made dinner plans decisions easy and fun. Try
@@ -43,7 +43,7 @@ function SectionOne() {
             <img src={Instagram} alt="instagram" />
           </div>
           <div className="text-content">
-            <h2>The third Step</h2>
+            <h3>The third Step</h3>
             <p>
               The first app to reccomend a restaurant based on everyones
               preferences. We’ve made dinner plans decisions easy and fun. Try

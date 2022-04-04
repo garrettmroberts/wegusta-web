@@ -9,7 +9,9 @@ function Footer() {
   return (
     <div className="Footer">
       <footer className="footer-style">
-        <img src={logo} className="logo" alt="logo" />
+        <Link className="link" to="/">
+          <img src={logo} className="logo" alt="logo" />
+        </Link>
         <div className="links">
           <Link className="link" to="/">
             Home

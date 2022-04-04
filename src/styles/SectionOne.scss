@@ -4,9 +4,11 @@
   justify-content: space-between;
   align-items: center;
   padding: 144px 104px;
+  @media only screen and (max-width: 1100px) {
+    padding: 80px 40px;
+  }
 
   @media only screen and (max-width: 720px) {
-    padding: 0px 40px;
     flex-direction: column-reverse;
   }
 
@@ -14,20 +16,39 @@
     display: flex;
     flex-direction: column;
     align-items: flex-start;
-    padding: 0px;
     max-width: 564px;
+    h2{
+      margin-bottom: 64px;
+    }
+    p{
+      font-size:16px;
+      line-height: 24px;
+    }
+    @media only screen and (max-width: 860px) {
+    h2{
+      font-size: 32px;
+      margin-bottom: 24px;
+    }
+     
+    }
   }
   .SectionOneImage {
     height: 480px;
+    margin-right: 80px;
     @media only screen and (max-width: 1100px) {
       height: 320px;
+      margin-right: 40px;
+    }
+    @media only screen and (max-width: 780px) {
+      margin-right: 0px;
     }
   }
   .Step {
     display: flex;
     flex-direction: row;
     align-items: flex-start;
-    @media only screen and (max-width: 720px) {
+    margin-bottom: 24px;
+    @media only screen and (max-width: 80px) {
       flex-direction: column;
     }
 
@@ -40,7 +61,7 @@
       min-width: 72px;
       height: 72px;
       border-radius: 40px;
-      margin-right: 40px;
+      margin-right: 24px;
       @media only screen and (max-width: 720px) {
         min-width: 40px;
         height: 40px;
