@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/wegusta-web/static/css/main.09c6189d.css",
-    "main.js": "/wegusta-web/static/js/main.3f3e0d3c.js",
-    "static/js/787.f977d19d.chunk.js": "/wegusta-web/static/js/787.f977d19d.chunk.js",
-    "static/media/HeroImage.png": "/wegusta-web/static/media/HeroImage.287745e53fbcbf4b5248.png",
-    "static/media/SectionImage.png": "/wegusta-web/static/media/SectionImage.2e1bf7b93640e3372897.png",
-    "static/media/logo.svg": "/wegusta-web/static/media/logo.8a6c6e179ee2b366c715179afcdb8e5d.svg",
-    "static/media/together.svg": "/wegusta-web/static/media/together.1a6d7ff5efb8a6a665f6fad5f0e11e7f.svg",
-    "static/media/Instagram.svg": "/wegusta-web/static/media/Instagram.28beee248dec75166ae23b17524b1bd9.svg",
-    "static/media/Twitter.svg": "/wegusta-web/static/media/Twitter.2ee09f8be700f74fe6dd2caeb8f7373e.svg",
-    "static/media/Youtube.svg": "/wegusta-web/static/media/Youtube.1626868691e9cc1d9296227c2b190806.svg",
-    "index.html": "/wegusta-web/index.html",
-    "main.09c6189d.css.map": "/wegusta-web/static/css/main.09c6189d.css.map",
-    "main.3f3e0d3c.js.map": "/wegusta-web/static/js/main.3f3e0d3c.js.map",
-    "787.f977d19d.chunk.js.map": "/wegusta-web/static/js/787.f977d19d.chunk.js.map"
+    "main.css": "/static/css/main.09c6189d.css",
+    "main.js": "/static/js/main.d899df47.js",
+    "static/js/787.f977d19d.chunk.js": "/static/js/787.f977d19d.chunk.js",
+    "static/media/HeroImage.png": "/static/media/HeroImage.287745e53fbcbf4b5248.png",
+    "static/media/SectionImage.png": "/static/media/SectionImage.2e1bf7b93640e3372897.png",
+    "static/media/logo.svg": "/static/media/logo.8a6c6e179ee2b366c715179afcdb8e5d.svg",
+    "static/media/together.svg": "/static/media/together.1a6d7ff5efb8a6a665f6fad5f0e11e7f.svg",
+    "static/media/Instagram.svg": "/static/media/Instagram.28beee248dec75166ae23b17524b1bd9.svg",
+    "static/media/Twitter.svg": "/static/media/Twitter.2ee09f8be700f74fe6dd2caeb8f7373e.svg",
+    "static/media/Youtube.svg": "/static/media/Youtube.1626868691e9cc1d9296227c2b190806.svg",
+    "index.html": "/index.html",
+    "main.09c6189d.css.map": "/static/css/main.09c6189d.css.map",
+    "main.d899df47.js.map": "/static/js/main.d899df47.js.map",
+    "787.f977d19d.chunk.js.map": "/static/js/787.f977d19d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.09c6189d.css",
-    "static/js/main.3f3e0d3c.js"
+    "static/js/main.d899df47.js"
   ]
 }
