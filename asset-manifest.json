@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/wegusta-web/static/css/main.09c6189d.css",
-    "main.js": "/wegusta-web/static/js/main.615cc41b.js",
+    "main.js": "/wegusta-web/static/js/main.3f3e0d3c.js",
     "static/js/787.f977d19d.chunk.js": "/wegusta-web/static/js/787.f977d19d.chunk.js",
     "static/media/HeroImage.png": "/wegusta-web/static/media/HeroImage.287745e53fbcbf4b5248.png",
     "static/media/SectionImage.png": "/wegusta-web/static/media/SectionImage.2e1bf7b93640e3372897.png",
@@ -12,11 +12,11 @@
     "static/media/Youtube.svg": "/wegusta-web/static/media/Youtube.1626868691e9cc1d9296227c2b190806.svg",
     "index.html": "/wegusta-web/index.html",
     "main.09c6189d.css.map": "/wegusta-web/static/css/main.09c6189d.css.map",
-    "main.615cc41b.js.map": "/wegusta-web/static/js/main.615cc41b.js.map",
+    "main.3f3e0d3c.js.map": "/wegusta-web/static/js/main.3f3e0d3c.js.map",
     "787.f977d19d.chunk.js.map": "/wegusta-web/static/js/787.f977d19d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.09c6189d.css",
-    "static/js/main.615cc41b.js"
+    "static/js/main.3f3e0d3c.js"
   ]
 }
