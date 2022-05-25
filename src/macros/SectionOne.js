@@ -1,5 +1,7 @@
 import SectionImage from "../assets/SectionImage.png";
-import Instagram from "../assets/Instagram.svg";
+import userplus from "../assets/userplus.svg";
+import CardStack from "../assets/CardStack.svg";
+import heart from "../assets/heart.svg";
 import "../styles/SectionOne.scss";
 
 function SectionOne() {
@@ -11,43 +13,42 @@ function SectionOne() {
         alt="SectionOne Image"
       />
       <div className="SectionOneContent">
-        <h2> Simple as 1, 2, 3</h2>
+        <h2>Dinner plans, done.</h2>
         <div className="Step">
           <div className="Icon">
-            <img src={Instagram} alt="instagram" />
+            <img src={userplus} alt="Add user" />
           </div>
           <div className="text-content">
-            <h3>The first Step</h3>
+            <h3>Invite friends</h3>
             <p>
-              The first app to reccomend a restaurant based on everyones
-              preferences. We’ve made dinner plans decisions easy and fun. Try
-              our app today.
+              Making plans with friends has never been easier. Invite your
+              friends to make plans and let us do the work for you. Want to go
+              it alone? No worries you can do that as well.
             </p>
           </div>
         </div>
         <div className="Step">
-          <div className="Icon">
-            <img src={Instagram} alt="instagram" />
+          <div className="Icon2">
+            <img src={CardStack} alt="Card Stack" />
           </div>
           <div className="text-content">
-            <h3>The second Step</h3>
+            <h3>Select your preferences</h3>
             <p>
-              The first app to reccomend a restaurant based on everyones
-              preferences. We’ve made dinner plans decisions easy and fun. Try
-              our app today.
+              Everyone you’ve invited will select their preferences through a
+              fun card swipe quiz. Once everyone has completed the quiz, us work
+              our magic.
             </p>
           </div>
         </div>
         <div className="Step">
-          <div className="Icon">
-            <img src={Instagram} alt="instagram" />
+          <div className="Icon3">
+            <img src={heart} alt="heart" />
           </div>
           <div className="text-content">
-            <h3>The third Step</h3>
+            <h3>View your results</h3>
             <p>
-              The first app to reccomend a restaurant based on everyones
-              preferences. We’ve made dinner plans decisions easy and fun. Try
-              our app today.
+              Based on everyone’s preferences, we then provide a recommendation
+              where to go to eat, that everyone will enjoy.
             </p>
           </div>
         </div>
