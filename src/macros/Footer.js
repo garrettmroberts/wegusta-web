@@ -16,13 +16,13 @@ function Footer() {
           <Link className="link" to="/">
             Home
           </Link>
-          <Link className="link" to="/privacy">
+          {/* <Link className="link" to="/privacy">
             Privacy Policy
-          </Link>
+          </Link> */}
           {/* <Link className="link" to="/privacy">
             Advertise With Us
           </Link> */}
-          <Link className="link" to="/privacy">
+          <Link className="link" to="#">
             Download the app
           </Link>
         </div>
