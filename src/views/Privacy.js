@@ -8,8 +8,8 @@ const Privacy = () => {
     <React.Fragment>
       <Header />
       <div className="Privacy">
-        <p>Updated Jule 09, 2020</p>
-        <h1>Privacy Ploicy</h1>
+        <p>Updated November 10, 2022</p>
+        <h1>Privacy Policy</h1>
         <p>Version 2.1, Revision 4</p>
         <h2>Using our services</h2>
         <p>

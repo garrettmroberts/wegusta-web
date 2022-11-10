@@ -15,7 +15,7 @@ function SectionOne() {
       <div className="SectionOneContent">
         <h2>Dinner plans, done.</h2>
         <div className="Step">
-          <div className="Icon">
+          <div className="step-icon">
             <img src={userplus} alt="Add user" />
           </div>
           <div className="text-content">
@@ -28,7 +28,7 @@ function SectionOne() {
           </div>
         </div>
         <div className="Step">
-          <div className="Icon2">
+          <div className="step-icon">
             <img src={CardStack} alt="Card Stack" />
           </div>
           <div className="text-content">
@@ -41,7 +41,7 @@ function SectionOne() {
           </div>
         </div>
         <div className="Step">
-          <div className="Icon3">
+          <div className="step-icon">
             <img src={heart} alt="heart" />
           </div>
           <div className="text-content">

@@ -19,14 +19,14 @@ function Footer() {
           <Link className="link" to="/privacy">
             Privacy Policy
           </Link>
-          <Link className="link" to="/privacy">
+          {/* <Link className="link" to="/privacy">
             Advertise With Us
-          </Link>
+          </Link> */}
           <Link className="link" to="/privacy">
             Download the app
           </Link>
         </div>
-        <div className="social-links">
+        {/* <div className="social-links">
           <div className="Social-Link">
             <img src={Instagram} alt="instagram" />
           </div>
@@ -36,7 +36,7 @@ function Footer() {
           <div className="Social-Link">
             <img src={Youtube} alt="instagram" />
           </div>
-        </div>
+        </div> */}
         <p>© 2022 Wegusta LLC. All rights reserved</p>
       </footer>
     </div>
