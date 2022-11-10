@@ -10,7 +10,7 @@ function SectionOne() {
       <img
         src={SectionImage}
         className="SectionOneImage"
-        alt="SectionOne Image"
+        alt="app is vicible on phone.  Shows a card stack with food images being swiped."
       />
       <div className="SectionOneContent">
         <h2>Dinner plans, done.</h2>

@@ -1,8 +1,8 @@
 import { Link } from "react-router-dom";
 import logo from "../assets/logo.svg";
-import Instagram from "../assets/Instagram.svg";
-import Twitter from "../assets/Twitter.svg";
-import Youtube from "../assets/Youtube.svg";
+// import Instagram from "../assets/Instagram.svg";
+// import Twitter from "../assets/Twitter.svg";
+// import Youtube from "../assets/Youtube.svg";
 import "../styles/Footer.scss";
 
 function Footer() {
